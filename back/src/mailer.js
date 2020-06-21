@@ -7,8 +7,8 @@ const transporter = nodemailer.createTransport({
       port: 465,
       secure: true,
 	auth: {
-		user: 'netflex.test.mail@gmail.com',
-		pass: 'dreggman132465'
+		user: 'yourmail@gmail.com',
+		pass: 'yourmdp'
 	}
 });
 
